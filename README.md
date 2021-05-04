@@ -1,8 +1,21 @@
 # z-pinch
 Computational model of z-pinch in time and space.
 
+![изображение](https://user-images.githubusercontent.com/83656129/117030916-c3b9a800-ad08-11eb-98da-8d7b5901ae79.png)
+
+## Usage
+
+The z-pinch directory contains source Delphi code as well as a compiled version for Windows.
+To start the application on Windows, run `FOCUS.exe` file.
+
+After the application is started, you will see a vertical panel that describes initial values of parameters.
+You can change them by clicking and typing new values.
+Next, you need to paint an image of plasma density, click "Paint" button for that.
+To start the process, click "Start MHD".
+
 ## Description
-![изображение](https://user-images.githubusercontent.com/83656129/117024506-bac5d800-ad02-11eb-8750-16850f8e9670.png)
+
+In progress.
 
 ## About the Author
 The model is the result of long-term work of the leading researcher Vikhrev Victor in the Kurchatov Institute, Moscow, Russia.
