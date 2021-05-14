@@ -13,6 +13,11 @@ You can change them by clicking and typing new values.
 Next, you need to paint an image of plasma density, click "Paint" button for that.
 To start the process, click "Start MHD".
 
+Для запуска модели, сначала скачайте все файлы на свой компьютер. Для этого нажмите на данной странице зеленую кнопку
+с надписью "Code"/"Код", затем выбирите "Downlod ZIP"/"Скачать архив".
+
+Для запуска программы зайдите в директорию "z-pinch" и запустите "FOCUS.exe".
+
 ## Description
 
 In progress.
