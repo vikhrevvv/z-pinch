@@ -5,7 +5,7 @@ Computational model of z-pinch in time and space.
 
 ## Usage
 
-The z-pinch directory contains source Delphi code as well as a compiled version for Windows.
+The z-pinch directory contains precompiled version of the model for Windows.
 To start the application on Windows, run `FOCUS.exe` file.
 
 After the application is started, you will see a vertical panel that describes initial values of parameters.
